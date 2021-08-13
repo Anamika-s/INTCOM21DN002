@@ -1,0 +1,20 @@
+ What is MVC
+ What are Models Controllers Views
+ MVC Application in Life Cycle
+ Routing
+ What are Action Methods
+ What is a Layout
+ ViewBag ViewData TempData (How to pass data from action method 
+ to view)
+  
+
+
+ CLR
+ CTS
+ CLS
+ Garbage Collection
+ How does code compiles in DOtNet
+ 
+
+ ADM
+ HoW is DotNet Core different DotNet framework?
