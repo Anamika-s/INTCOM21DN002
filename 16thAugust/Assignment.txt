@@ -1,0 +1,18 @@
+CRUD operations 
+1. ADO.Net
+
+Table : Employee > id, name, depet , salary
+1. through commands
+2. through stored procedures
+
+2. Entity Framework : Code First Approach
+
+ Course 
+ id 
+ name
+ duartion
+ fees
+ 
+ After you insert 5 records , 
+add 1 more column
+ Again insert 1 more record
