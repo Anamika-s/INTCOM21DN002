@@ -1,0 +1,43 @@
+
+     int add (int x, int y)
+{ 
+return x+y;}
+
+ int subtract (int x, int y)
+{ 
+return x-y;}
+
+ // Declare a delegate
+ delegate int Del (int x, int y);
+ Del del = new Del(add);
+  
+  Lamdba Expressions
+ 	Anonymous Methods > Methods which dont have name
+  
+          int res = delegate(function (int x, int y) 
+ { 
+ return x+y;
+}
+
+ Lambda Expressions
+
+   (input) =>  (output)
+
+
+
+  int res =   (x,y) => {return x+y;}
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
