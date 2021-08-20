@@ -1,0 +1,25 @@
+
+
+Study these topics , will take after half an hour
+
+Arrays 
+Collections
+Generic Collections
+CTS
+CLS
+CLR
+Garbage Collection
+
+OOPs concepts
+
+Method overloading
+Method overriding
+Polymophism
+Abstration & abstract class
+
+
+
+
+
+
+
