@@ -1,0 +1,21 @@
+ SP are stored in pre-compiled form 
+ Functios willbe compiled wheneevr you call them
+
+ Functions have to always return some value
+ SP may or may not return something
+ 
+ SP can have input & output parameters
+ Functions can only have input parameters
+
+ SP can have exception handling
+ Funnctions dont have 
+
+ SP can call Functions
+ Functions cannot call SP
+
+ SP can have DDL / DML commands 
+ Functions can have only select command
+ 
+ Functions >>> perform some task on some input 
+ ToLower() 
+ Max() 
